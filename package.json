@@ -1,7 +1,7 @@
 {
     "name": "logquacious-console",
     "description": "Console channel plugin for Logquacious",
-    "version": "0.0.2",
+    "version": "1.0.0",
     
     "author": {
         "name": "Joe Lekie",
@@ -29,7 +29,7 @@
     },
     
     "peerDependencies": {
-        "logquacious": "0.x"
+        "logquacious": "1.x"
     },
     
     "devDependencies": {
